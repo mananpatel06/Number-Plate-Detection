@@ -1,2 +1,2 @@
 # Number-Plate-Detection
-Number Plate Detection using OpenCV.
+Car Number Plate Detection using OpenCV.
